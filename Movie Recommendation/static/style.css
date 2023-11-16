@@ -1,0 +1,32 @@
+.sel{
+    color: rgb(31, 198, 22);
+    background-color: rgb(240, 239, 207);
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration:wavy;
+}
+
+.sel2{
+    color: rgba(26, 2, 148, 0.966);
+}
+
+#detail1{
+    text-align: center;
+    padding-top: 300px;
+   
+}
+
+.movie{
+    background-color:rgb(140, 173, 238);
+}
+.err{
+    color: red;
+}
+
+.header{
+    height: 80px; 
+    background-image: linear-gradient(rgb(9, 209, 162),rgb(230, 223, 223),rgb(52, 239, 86)); 
+    border :1px solid;
+    text-align: center;
+    text-transform: capitalize;
+}
